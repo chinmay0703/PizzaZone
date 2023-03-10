@@ -1,7 +1,7 @@
 user
 item 
 cart
-delivery
+delivery status
 order
 payment
 feedback
