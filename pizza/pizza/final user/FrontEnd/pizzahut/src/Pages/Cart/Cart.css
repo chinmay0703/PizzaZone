@@ -1,0 +1,10 @@
+.payBtn{
+    width: max-content;
+    border-radius: 7px;
+    color: black;
+    background-color: rgb(220, 218, 77);
+}
+
+.amountInfo{
+    /* margin-left: 62%; */
+}

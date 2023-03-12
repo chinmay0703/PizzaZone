@@ -1,0 +1,29 @@
+.tableContainer{
+    margin-left: 5%;
+    margin-right: 10%;
+    outline-style: groove;
+    outline-width: 1px;
+    /* background-color: blanchedalmond; */
+    border-radius: 10px;
+} 
+
+.cartInfo{
+    margin-left: 5%;
+}
+/* style={{ marginLeft: "10px", borderRadius: "20px", width: "150px", height: "150px" }} */
+#cartImg{
+    max-width: 100%;
+    border-radius: 6px;
+    height: auto;
+}
+
+.removebtn{
+    margin-right: 5%;
+    margin-left: 5%;
+    border-radius: 4px;
+    color: aliceblue;
+    background-color: rgb(252, 68, 68);
+    /* background-color: rgb(255, 0, 0); */
+    /* background-color: rgb(255, 182, 80); */
+}
+

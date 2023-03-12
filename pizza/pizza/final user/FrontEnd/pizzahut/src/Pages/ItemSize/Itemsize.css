@@ -1,0 +1,32 @@
+#changeBtn{
+    /* height: 100px; */
+    background-color: rgb(255, 225, 117);
+    color: rgb(0, 0, 0);
+    border-radius: 6px;
+}
+
+#changeBtn:hover{
+    background-color: rgb(255, 247, 0);
+}
+
+#changeBtn:active{
+    background-color: rgb(255, 230, 0);
+}
+
+.collapseBtn{
+    /* margin-left: 40%; */
+    height: 40px;
+    background-color: rgb(222, 144, 43);
+}
+
+.addCartbtn{
+    margin-top: 2%;
+    margin-right: 3%;
+    border-radius: 6px;
+    width: 130px;
+    height: 40px;
+    background-color: rgb(248, 232, 59);
+    color: rgb(1, 6, 10);
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

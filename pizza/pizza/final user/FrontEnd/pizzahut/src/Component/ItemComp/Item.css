@@ -1,0 +1,26 @@
+.img {
+    min-height: 20rem;
+    /* width: 300px; */
+    border-top: 6px;
+}
+
+*,
+*::before *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    overflow: hidden;
+    box-shadow: 0 6px 20px rosybrown;
+    border-radius: 5px;
+    white-space: normal;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+    transition: transform 200ms ease-in;
+    cursor: auto;
+}

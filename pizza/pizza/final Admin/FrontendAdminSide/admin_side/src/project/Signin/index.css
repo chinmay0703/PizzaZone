@@ -1,0 +1,57 @@
+.formdiv{
+    border-radius: 5px;
+    position: relative;
+    text-align: center;
+    font-style: normal;
+    background-image: url(./images/login.png);
+    opacity: 2.0;
+    width: 60em;
+    position: absolute;
+    left: 18em;
+    top: 5rem;
+    height: 530px;
+}
+  .most{
+    
+      opacity: 1.0;
+      width: 20em;
+      position: absolute;
+      left: 27em;
+      top: 10rem;
+      height: 300px;
+  }
+  
+  h2{
+      color:white;
+      height: 100px;
+      text-align: center;
+      font-family: monospace;
+      font-style: bold;
+      font-size: 150px;
+      text-shadow: 4px 2px 2px black;
+  }
+ 
+    
+ .col{
+   text-align: center;
+ }
+
+
+
+
+input{
+  width: 200px;
+  height: 50px;
+}
+
+  
+@media screen and(min:320px) and(max:767px) {
+  .most{
+      align-items: center;
+      left: 0px !important;
+      width: 100% !important;
+  }
+  .most.offset-md-2 {
+      left: 0px;
+  }
+}
