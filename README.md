@@ -1,5 +1,26 @@
-PizzaZone
-________________________________________
+PizzaZone Gallery
+
+________![1](https://github.com/chinmay0703/PizzaZone/assets/121102640/f96bd127-f318-4f26-8474-ad6cc560ad5d)
+
+![2](https://github.com/chinmay0703/PizzaZone/assets/121102640/6076524c-c5c4-4d25-8cf4-ae0a729e3cef)
+
+![3](https://github.com/chinmay0703/PizzaZone/assets/121102640/b515a2c0-fba5-4ed2-a114-d560a7c870da)
+
+![4](https://github.com/chinmay0703/PizzaZone/assets/121102640/1cba32f2-8cf0-453d-b233-b2fde917216f)
+
+![5](https://github.com/chinmay0703/PizzaZone/assets/121102640/8e695832-b83a-40d6-8e90-ba41c858fe04)
+![6](https://github.com/chinmay0703/PizzaZone/assets/121102640/3b0e7267-f24d-4488-a4d8-70e23f95af9e)
+![7](https://github.com/chinmay0703/PizzaZone/assets/121102640/953ba375-0175-4a03-bddd-4c1dc2ebb46a)
+![8](https://github.com/chinmay0703/PizzaZone/assets/121102640/9c07f064-ecf2-4e61-8880-825d147c83e1)
+![9](https://github.com/chinmay0703/PizzaZone/assets/121102640/1c3d47a9-6707-4825-9922-bcaa22871288)
+![10](https://github.com/chinmay0703/PizzaZone/assets/121102640/516e068a-8536-412d-bfce-429eb565482e)
+![p](https://github.com/chinmay0703/PizzaZone/assets/121102640/5f8e6dbf-e1de-485e-8d29-a7e5c6a45e66)
+![i](https://github.com/chinmay0703/PizzaZone/assets/121102640/962145e0-c21b-4c49-ba94-65d1f1032d18)
+![z](https://github.com/chinmay0703/PizzaZone/assets/121102640/410eb574-75a6-40c4-93a4-7cfe7a6afcf6)
+![t](https://github.com/chinmay0703/PizzaZone/assets/121102640/bb31979d-c572-4909-8a00-37598694df49)
+![mm](https://github.com/chinmay0703/PizzaZone/assets/121102640/d98f7716-54ac-49f2-b1e7-eca603df81e8)
+
+________________________________
 Document:
 
 System Requirement Specification Document
@@ -78,5 +99,4 @@ System will be able to provide consistent user exeprience to stake holder as wel
 
 5. Usability
 The app should be designed to be user-friendly and intuitive, with a clear and consistent user interface. The app should be designed to minimize the learning curve for new users and provide a seamless experience for experienced users.
-
 
